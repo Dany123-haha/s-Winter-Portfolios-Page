@@ -1,0 +1,19 @@
+img{ width: 200px;
+}
+
+body {
+    background: fuchsia;
+    color: white;
+}
+.h1{
+    display:flex;
+    justify-content: center;
+}                                                                                                  
+.classes {
+    display: flex;
+    background: black;
+}
+h1{
+    color:black;
+}
+    
